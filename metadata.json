@@ -1,0 +1,5 @@
+{
+  "name": "Copy of MP3 Batch Slicer",
+  "description": "Upload multiple MP3 files, automatically extract random 15-second clips, and export them with custom filenames.",
+  "requestFramePermissions": []
+}
